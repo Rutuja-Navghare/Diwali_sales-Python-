@@ -13,3 +13,4 @@ You can see on the screen, these are different points which we have covered in t
 ##CONCLUSION
 Married women age group 26-35 yrs from UP, Maharashtra and Karnataka working in IT, Healthcare and Aviation are more likely
 to buy products from Food, Clothing and Electronic categories.
+http://localhost:8888/notebooks/diwali%20sales.py#
